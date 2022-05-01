@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'OTcwMTQwMzUzNzE1OTE2ODQw.Ym3nnA.qf80KxyvCE3x9BbJDlLiTXX-wM4'
+TOKEN = ''
 items = []
 intents = discord.Intents.all()
 intents.members = True
