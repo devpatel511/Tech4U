@@ -1,4 +1,4 @@
-**_1st_** place out of **_140_** participants at DeerHacks 2022: https://devpost.com/software/pricetracker 
+**_1st_** place out of **_140_** participants at **_DeerHacks 2022_**: https://devpost.com/software/pricetracker 
 
 ## Overview
 Tech4U is an innovative discord bot that implements web scrapping with UIPath software and allows you to keep track of the prices and stocks of your most desired tech products.
